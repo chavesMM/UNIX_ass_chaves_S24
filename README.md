@@ -82,11 +82,9 @@ cp <name_files> <directory/teosinte>
 
 In order to obtain the different files for the assignment, it is necessary to go through several steps: 
 
-Data transposing 
-
-Data sorting 
-
-Data extraction 
+1. Data transposing
+2. Data sorting
+3. Data extraction 
 
 #### 1. Data transposing: 
 
