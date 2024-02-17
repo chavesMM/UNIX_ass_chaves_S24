@@ -178,14 +178,10 @@ for ((i=1; i<=10; i++)); do awk -v i="$i" '{if ($2==i) print $0}' maize_snp_sort
 
 Finally, I created new folders and moved the data into their respective folders. I also kept the raw data separately:  
 
-Maize/teosinte_multiple 
+- Maize/teosinte_multiple 
+- Maize/teosinte_unknown
+- Maize/teosinte_decreasing
+- Maize/teosinte_increasing
+- Raw_data   
 
-Maize/teosinte_unknown 
-
-Maize/teosinte_decreasing 
-
-Maize/teosinte_increasing 
-
-Raw_data   
-
-To upload the data to Github, I  
+All data can be found in the GitHub repository https://github.com/chavesMM/UNIX_ass_chaves_S24.git 
